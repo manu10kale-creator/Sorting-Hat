@@ -20,3 +20,7 @@ A cinematic GenAI Streamlit app that sorts users into a Hogwarts house using a t
 ```bash
 git clone https://github.com/your-username/sorting-hat.git
 cd sorting-hat
+
+git add .
+git commit -m "Ready for deploy to Render"
+git push origin main
