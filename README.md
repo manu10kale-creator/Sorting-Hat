@@ -18,12 +18,13 @@ A cinematic GenAI Streamlit app that sorts users into a Hogwarts house using a t
 Try the live Sorting Hat app here:  
 👉 **https://sorting-hat-1-3r6l.onrender.com**
 
-## Quickstart (local)
-1. Clone repo:
-```bash
-git clone https://github.com/your-username/sorting-hat.git
-cd sorting-hat
+## 📸 Screenshots
 
-git add .
-git commit -m "Ready for deploy to Render"
-git push origin main
+### 🏠 Home Screen
+![Home Screen](assets/home.png)
+
+### 🎩 Sorting Hat Reveal
+![Sorting Reveal](assets/reveal.png)
+
+### 🃏 Downloadable House Card
+![House Card](assets/card.png)
