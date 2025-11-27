@@ -14,13 +14,6 @@ A cinematic GenAI Streamlit app that sorts users into a Hogwarts house using a t
 
 ---
 
-## Demo / Screenshots
-*(Place your screenshots in `assets/` and reference them below)*
-- Home page: `assets/home.png`
-- Example reveal: `assets/reveal.png`
-- Generated House Card: `assets/card.png`
-
----
 
 ## Quickstart (local)
 1. Clone repo:
