@@ -13,7 +13,10 @@ A cinematic GenAI Streamlit app that sorts users into a Hogwarts house using a t
 - Secure API key handling via `.env`
 
 ---
+## 🚀 Live Demo
 
+Try the live Sorting Hat app here:  
+👉 **https://sorting-hat-1-3r6l.onrender.com**
 
 ## Quickstart (local)
 1. Clone repo:
